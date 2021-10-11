@@ -6,3 +6,4 @@
 - WEEK3 - Decision Tree
 - WEEK4 - Soft Vector Machine
 - WEEK5 - HMM (Hidden Markov Model)
+- WEEK6 - CRF
