@@ -6,5 +6,5 @@
 - WEEK3 - Decision Tree
 - WEEK4 - Soft Vector Machine
 - WEEK5 - HMM (Hidden Markov Model)
-- WEEK6 - CRF
+- WEEK6 - CRF (Conditional Random Fields)
 - WEEK7 - ANN (Artificail Neural Network) - XOR
