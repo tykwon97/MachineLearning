@@ -7,3 +7,4 @@
 - WEEK4 - Soft Vector Machine
 - WEEK5 - HMM (Hidden Markov Model)
 - WEEK6 - CRF
+- WEEK7 - ANN (Artificail Neural Network) - XOR
